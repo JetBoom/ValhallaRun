@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 7ebe6337eeed537468daf8d492ab11d4
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - groundPhysicsMaterial: {fileID: 13400000, guid: c15ae0e881e57ea48b4749e69148c724,
+      type: 2}
+  - groundNoMovementPhysicsMaterial: {fileID: 13400000, guid: c3718fe296078574994d3b8bc460864d,
+      type: 2}
+  - airPhysicsMaterial: {fileID: 13400000, guid: 0fb3f493da7c31b4dbef1b6b667ff141,
+      type: 2}
+  - gravityController: {instanceID: 0}
+  - airDashSound: {fileID: 8300000, guid: 4f623c220907956498207b523fd37b3e, type: 3}
+  - doubleJumpSound: {fileID: 8300000, guid: ac7ab88dc9781924398eed4fbfe9d855, type: 3}
+  - wallJumpSound: {fileID: 8300000, guid: 3adeea452859df04db5137b4eb782340, type: 3}
+  - respawnSound: {fileID: 8300000, guid: bd98f4f82ee46824fa48121f445f91cd, type: 3}
+  - hitGroundHardEffect: {instanceID: 0}
+  - hitGroundCloudEffect: {instanceID: 0}
+  - footstepGroundHardEffect: {instanceID: 0}
+  - footstepGroundSoftEffect: {instanceID: 0}
+  - eyePosition: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
